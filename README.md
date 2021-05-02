@@ -24,7 +24,7 @@ If you do not have virtualenv, please download the package by running `pip insta
 run the following commands from a terminal window (MacOS or Linux):
 
 1. Navigate inside the project: `cd path/to/stellar-webserver`
-2. Activate the virtualenv: `source stellar_webserver/bin/activate`
+2. Create and activate a virtual env based on `requirements.txt`: `source env/bin/activate`
 3. Start the Webserver: `python api/api.py`
 4. In another terminal window, run the tests: `./test/test.sh`
 
