@@ -1,0 +1,5 @@
+# Manage dependencies for API
+flask
+flask_caching
+marshmallow
+datetime
